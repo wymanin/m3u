@@ -67,38 +67,38 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPV6•央视",CCTV4K 「IPV6」
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 group-title="IPV6•央视",CCTV1「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" group-title="IPV6•央视",CCTV1「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV2「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" group-title="IPV6•央视",CCTV2「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV3「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" group-title="IPV6•央视",CCTV3「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV4「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4" group-title="IPV6•央视",CCTV4「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV5「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="IPV6•央视",CCTV5「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV6「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6" group-title="IPV6•央视",CCTV6「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV7「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7" group-title="IPV6•央视",CCTV7「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV8「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8" group-title="IPV6•央视",CCTV8「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV9「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9" group-title="IPV6•央视",CCTV9「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV10「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10" group-title="IPV6•央视",CCTV10「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV11「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11" group-title="IPV6•央视",CCTV11「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV12「IPV6」
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12" group-title="IPV6•央视",CCTV12「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV14「IPV6」
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV15「IPV6」
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="IPV6•央视",CCTV17「IPV6」
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" group-title="IPV6•央视",CCTV13「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14" group-title="IPV6•央视",CCTV14「IPV6」
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV15" group-title="IPV6•央视",CCTV15「IPV6」
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17" group-title="IPV6•央视",CCTV17「IPV6」
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 group-title="IPV6•央视",CETV4「IPV6」
 http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•央视",CGTN 纪录「IPV6」
@@ -2497,6 +2497,8 @@ http://c-leung.homeip.net:8011/bysid/99
 http://c-leung.homeip.net:8011/bysid/96
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",「HK」翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",「HK」翡翠台
+http://c-leung.homeip.net:8011/bysid/1
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
 http://23.237.10.66:16106
 #EXTINF:-1 group-title="港澳台",「HK」翡翠台
